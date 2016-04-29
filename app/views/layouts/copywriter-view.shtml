@@ -1,0 +1,63 @@
+<!-- build:template
+<% for(var i = 0, cw = copywriters; i < cw.length; i++) { %>
+<div class="view {{ cw[i].verified ? "verified" : "" }}">
+    <div class="table">
+        <div class="table-cell copywriters-img-container">
+            <div class="copywriters-img">
+                <img src="{{ cw[i].imgSrc }}" width="80" alt="copywriters-img">
+                {{ cw[i].verified ? "<span class='verified-text'>verified <small>by Contentmart</small> <span class='tooltip'>" +  cw[i].verified  + "</span></span>" : "" }}
+            </div>
+        </div>
+        <div class="table-cell vertical-top view-content">
+            <div class="table info">
+                <div class="info-cell name table-cell vertical-middle">
+                    <div class="head-text">{{ cw[i].name }}</div>
+                    <span class="country">
+                        <img class="author-country-flag" src="img/{{ cw[i].flag }}-flag.png" width="16" alt="flag">
+                        <span class="tooltip">{{ cw[i].tooltipCountryName }}</span>
+                    </span>
+                    <div class="small">Online {{ cw[i].onlineData }}</div>
+                </div>
+                <div class="stars-rating info-cell table-cell vertical-middle">
+                    <ul class="rating">
+                        <li>☆</li>
+                        <li>☆</li>
+                        <li>☆</li>
+                        <li>☆</li>
+                        <li>☆</li>
+                    </ul>
+                    <div class="small">{{ cw[i].numReviews }} reviews</div>
+                </div>
+                <div class="info-cell language-level table-cell vertical-middle">
+                    <div class="head-text">{{ cw[i].languageLevel }}</div>
+                    <div class="small">english</div>
+                </div>
+                <div class="order-cell table-cell vertical-middle">
+                    <div class="head-text">{{ cw[i].numOrder }} orders</div>
+                    <div class="small">completed</div>
+                </div>
+                <div class="discover table-cell vertical-middle">
+                    <div class="small mark-blue">Discover</div>
+                    <div class="head-text mark-blue upper">PORTFOLIO</div>
+                </div>
+                <div class="btn-hire-cell table-cell vertical-middle">
+                    <button class="btn btn-hire btn-blue upper">hire</button>
+                </div>
+            </div>
+            <div class="table description">
+                <div class="about-copywriter table-cell vertical-top">
+                    <p class="text">
+                        {{ cw[i].aboutText }}
+                    </p>
+                </div>
+                <div class="services-copywriter table-cell vertical-top">
+                    <p class="text">
+                         {{ cw[i].servicesText }}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<% } %>
+/build -->

@@ -1,0 +1,175 @@
+{
+  "title": "Creative Webmedia",
+  "copywriters": [
+    {
+      "imgSrc": "img/avatars/avatar-1.png",
+      "name": "Juhi.S",
+      "flag": "i",
+      "tooltipCountryName": "From India",
+      "onlineData": "Feb 19",
+      "numReviews": "12",
+      "languageLevel": "Advanced",
+      "numOrder": "35",
+      "aboutText": "Real Estate, Health & Care, Business & Finance, Travel & Tourism, Jobs & Education, IT & Software, Entertainment & Lifestyle, Automotive.",
+      "servicesText": "Copywriting / Web Content, articles and Blog writing, Technical writing, Creative writing, Editing & Proof Writing."
+    },
+    {
+      "imgSrc": "img/avatars/avatar-2.png",
+      "name": "Hasan",
+      "flag": "i",
+      "tooltipCountryName": "From India",
+      "onlineData": "Feb 10",
+      "numReviews": "19",
+      "languageLevel": "Advanced",
+      "numOrder": "18",
+      "aboutText": "Health & Care, Jobs & Education, Entertainment & Lifestyle.",
+      "servicesText": "Copywriting / Web Content, Articles and Blog writing, Creative writing, Editing & Proof Reading.",
+      "verified": "Copywriter writes an essay on a random topic. We confirm his quality."
+    },
+    {
+      "imgSrc": "img/avatars/avatar-3.png",
+      "name": "Nikh",
+      "flag": "i",
+      "tooltipCountryName": "From India",
+      "onlineData": "Feb 1",
+      "numReviews": "67",
+      "languageLevel": "Intermediate",
+      "numOrder": "13",
+      "aboutText": "Health & Care, Jobs & Education, IT & Software, Entertainment & Lifestyle, Travel & Tourism, Politics, Sports.",
+      "servicesText": "Copywriting / Web Content, Articles and Blog writing, Technical writing, Creative writing, Editing & Proof Reading."
+    },
+    {
+      "imgSrc": "img/avatars/avatar-4.png",
+      "name": "Aliya",
+      "flag": "i",
+      "tooltipCountryName": "From India",
+      "onlineData": "Jan 30",
+      "numReviews": "7",
+      "languageLevel": "Advanced",
+      "numOrder": "10",
+      "aboutText": "Health & Care, Entertainment & Lifestyle, Travel & Tourism.",
+      "servicesText": "Articles and Blog writing, Creative writing, Editing & Proof Reading."
+    },
+    {
+      "imgSrc": "img/avatars/avatar-1.png",
+      "name": "Juhi.S",
+      "flag": "i",
+      "tooltipCountryName": "From India",
+      "onlineData": "Feb 19",
+      "numReviews": "12",
+      "languageLevel": "Advanced",
+      "numOrder": "35",
+      "aboutText": "Real Estate, Health & Care, Business & Finance, Travel & Tourism, Jobs & Education, IT & Software, Entertainment & Lifestyle, Automotive.",
+      "servicesText": "Copywriting / Web Content, articles and Blog writing, Technical writing, Creative writing, Editing & Proof Writing."
+    },
+    {
+      "imgSrc": "img/avatars/avatar-5.png",
+      "name": "Oleg-Sobyanin",
+      "flag": "ua",
+      "tooltipCountryName": "From Ukraine",
+      "onlineData": "Feb 12",
+      "numReviews": "15",
+      "languageLevel": "Advanced",
+      "numOrder": "20",
+      "aboutText": "Health & Care, Jobs & Education, Entertainment & Lifestyle.",
+      "servicesText": "Copywriting / Web Content, Articles and Blog writing, Creative writing, Editing & Proof Reading.",
+      "verified": "Copywriter writes an essay on a random topic. We confirm his quality."
+    },
+    {
+      "imgSrc": "img/avatars/avatar-3.png",
+      "name": "Nikh",
+      "flag": "i",
+      "tooltipCountryName": "From India",
+      "onlineData": "Feb 1",
+      "numReviews": "67",
+      "languageLevel": "Intermediate",
+      "numOrder": "13",
+      "aboutText": "Health & Care, Jobs & Education, IT & Software, Entertainment & Lifestyle, Travel & Tourism, Politics, Sports.",
+      "servicesText": "Copywriting / Web Content, Articles and Blog writing, Technical writing, Creative writing, Editing & Proof Reading."
+    },
+    {
+      "imgSrc": "img/avatars/avatar-4.png",
+      "name": "Aliya",
+      "flag": "i",
+      "tooltipCountryName": "From India",
+      "onlineData": "Jan 30",
+      "numReviews": "7",
+      "languageLevel": "Advanced",
+      "numOrder": "10",
+      "aboutText": "Health & Care, Entertainment & Lifestyle, Travel & Tourism.",
+      "servicesText": "Articles and Blog writing, Creative writing, Editing & Proof Reading."
+    },
+    {
+      "imgSrc": "img/avatars/avatar-3.png",
+      "name": "Nikh",
+      "flag": "i",
+      "tooltipCountryName": "From India",
+      "onlineData": "Feb 1",
+      "numReviews": "67",
+      "languageLevel": "Intermediate",
+      "numOrder": "13",
+      "aboutText": "Health & Care, Jobs & Education, IT & Software, Entertainment & Lifestyle, Travel & Tourism, Politics, Sports.",
+      "servicesText": "Copywriting / Web Content, Articles and Blog writing, Technical writing, Creative writing, Editing & Proof Reading."
+    }
+  ],
+  "aside": [
+    {
+      "asideTitle": "expetrises",
+      "list": [
+        "Real Estate copywriters",
+        "Health & Care copywriters ",
+        "Business & Finance copywriters",
+        "Travel & Tourism copywriters",
+        "Jobs & Education copywriters ",
+        "IT & Software copywriters ",
+        "Entertainment & Lifestyle copywriters",
+        "Automotive copywriters"
+      ]
+    },
+    {
+      "asideTitle": "categories",
+      "list": [
+        "Copywriting / Web Content copywriters",
+        "Articles and Blog writing copywriters ",
+        "Technical writing copywriters ",
+        "Creative writing copywriters ",
+        "Editing & Proof Writing copywriters"
+      ]
+    },
+    {
+      "asideTitle": "languages",
+      "list": [
+        "English copywriters",
+        "Hindi copywriters ",
+        "Kannada copywriters ",
+        "Malayalam copywriters ",
+        "Tamil copywriters ",
+        "Telugu copywriters",
+        " Bengali copywriters ",
+        "Marathi copywriters ",
+        "Gujarati copywriters"
+      ]
+    },
+    {
+      "asideTitle": "country",
+      "list": [
+        "Indian copywriters"
+      ]
+    },
+    {
+      "asideTitle": "cities",
+      "list": [
+        "Mumbai copywriters",
+        "Delhi copywriters",
+        "Bangalore copywriters",
+        "Hyderabad copywriters",
+        "Chennai copywriters",
+        "Ahmedabad copywriters",
+        "Kolkata copywriters",
+        "Surat copywriters",
+        "Pune copywriters",
+        "Jaipur copywriters"
+      ]
+    }
+  ]
+}

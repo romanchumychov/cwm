@@ -1,0 +1,99 @@
+.aside {
+  padding-left: 30px;
+
+  .aside-block {
+    margin-bottom: 40px;
+    &.expetrises {
+      i {
+        background-position: -4px 6px;
+      }
+    }
+    &.categories {
+      i {
+        background-position: -42px 8px;
+      }
+    }
+    &.languages {
+      i {
+        background-position: -71px 7px;
+      }
+    }
+    &.country {
+      i {
+        background-position: -108px 5px;
+      }
+    }
+    &.cities {
+      i {
+        background-position: -140px 6px;
+      }
+    }
+
+    ul {
+      padding-left: 34px;
+    }
+
+    a {
+      color: $blue;
+      font-size: 14px;
+      text-decoration: none;
+      line-height: 32px;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .head-text {
+    font-size: 16px;
+    color: #000;
+    font-weight: 600;
+    line-height: 32px;
+    i {
+      float: left;
+      display: block;
+      background-image: url("../img/aside-title-icons.png");
+      width: 28px;
+      height: 30px;
+      margin-right: 6px;
+    }
+  }
+}
+
+@media (max-width: 1200px) {
+  .aside {
+    width: 100%;
+    padding-left: 0;
+
+    .aside-block {
+      width: 33.33%;
+      float: left;
+    }
+  }
+}
+@media (max-width: 768px) {
+  .aside {
+    .aside-block {
+      display: table;
+      margin: 0 auto 20px;
+      width: 320px;
+      float: none;
+
+      .head-text {
+        cursor: pointer;
+      }
+
+      ul {
+        display: none;
+      }
+    }
+  }
+}
+
+@media (max-width: 320px) {
+  .aside {
+    .aside-block {
+      width: 100%
+    }
+  }
+}

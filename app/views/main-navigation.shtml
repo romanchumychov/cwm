@@ -1,0 +1,23 @@
+<div class="header">
+    <div class="mobile-menu-btn js-menu-btn"><span class="line"></span></div>
+    <div class="container">
+        <div class="table">
+            <div class="main-logo table-cell vertical-middle">
+                <a class="main-logo-link" href="#">
+                    <img src="img/main-logo.png" alt="Site logo">
+                </a>
+            </div>
+            <nav class="navigation">
+                <ul>
+                    <li><a class="nav-link table" href="#"><span class="table-cell vertical-middle">Copywriters</span></a></li>
+                    <li><a class="nav-link table" href="#"><span class="table-cell vertical-middle">Open orders</span></a></li>
+                </ul>
+                <div class="authorisation table-cell vertical-middle">
+                    <button class="login">Login</button>
+                    <button class="btn btn-green">Register as a writer</button>
+                    <button class="btn btn-blue">Register as a client</button>
+                </div>
+            </nav>
+        </div>
+    </div>
+</div>

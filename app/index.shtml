@@ -1,0 +1,5 @@
+<!-- build:include views/layouts/header.shtml --><!-- /build -->
+<!-- build:include views/main-navigation.shtml --><!-- /build -->
+<!-- build:include views/main.shtml --><!-- /build -->
+<!-- build:include views/layouts/footer.shtml --><!-- /build -->
+

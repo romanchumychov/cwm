@@ -1,0 +1,18 @@
+<div class="aside">
+    <div class="aside-container">
+        <!-- build:template
+           <% for (var i = 0; i < aside.length; i++) { %>
+                <div class="aside-block {{ aside[i].asideTitle }}">
+                   <div class="head-text upper"><i></i><span>{{ aside[i].asideTitle }}</span></div>
+                   <ul>
+                      <% for (var j = 0; j < aside[i].list.length; j++) { %>
+                           <li>
+                               <a class="item" href="#">{{ aside[i].list[j] }}</a>
+                           </li>
+                      <% } %>
+                   </ul>
+               </div>
+           <% } %>
+       /build -->
+    </div>
+</div>
